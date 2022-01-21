@@ -1150,6 +1150,11 @@ Object >> isComplexe [
 ]
 
 { #category : #testing }
+Object >> isComplexe: aB [
+	^false
+]
+
+{ #category : #testing }
 Object >> isContext [
 	^false
 ]
